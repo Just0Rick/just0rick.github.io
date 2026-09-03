@@ -1,2 +1,2 @@
-# just0rick.github.io
-My main developer site
+# Just0Rick
+Currently a WIP... Wait for future updates!
